@@ -178,18 +178,6 @@ print("Classificação (resultado KNN): ", variety_names[predicao[0]] )
     Classificação (resultado KNN):  Iris-versicolor
     
 
-    C:\Users\caios\anaconda3\Lib\site-packages\sklearn\base.py:464: UserWarning: X does not have valid feature names, but KNeighborsClassifier was fitted with feature names
-      warnings.warn(
-    
-
-
-```python
-
-```
 
 
 
-
-```python
-
-```
